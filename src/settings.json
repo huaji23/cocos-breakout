@@ -84,7 +84,7 @@
  },
  "rendering": {
   "renderPipeline": "",
-  "customPipeline": false,
+  "customPipeline": true,
   "effectSettingsPath": "src/effect.bin"
  },
  "splashScreen": {
